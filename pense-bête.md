@@ -68,3 +68,8 @@ F5 ou ctrl+shift+R (à privilègier car sans cacheæ)
 
 - police en rem pour s'adapter aux préf utilisteurs. 
 - largeur en % pour s'adapter aux tailles d'écran.
+
+
+# pseudo-class 
+
+- toujours mettre un container:"" apres un ::after / ::before
